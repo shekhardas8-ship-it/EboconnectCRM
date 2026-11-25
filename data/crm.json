@@ -1,0 +1,266 @@
+{
+  "sites": [
+    {
+      "id": "site_scaleroute",
+      "name": "ScaleRoute (Wix)",
+      "domain": "scaleroute.in",
+      "apiKey": "sr_live_key_wix_9982",
+      "colorTag": "teal",
+      "createdAt": "2026-11-18T17:25:16.390Z",
+      "leadCount": 4
+    },
+    {
+      "id": "site_growth",
+      "name": "WeGrow India Campaign",
+      "domain": "wegrowindia.com",
+      "apiKey": "wg_live_key_grow_4120",
+      "colorTag": "indigo",
+      "createdAt": "2026-11-18T17:25:16.391Z",
+      "leadCount": 1
+    },
+    {
+      "id": "site_1795102510648_0_hahv",
+      "name": "ScaleRoute Real Estate",
+      "domain": "realty.scaleroute.in",
+      "apiKey": "omni_live_1k1yp4o8_mwnpopx4",
+      "colorTag": "teal",
+      "description": "",
+      "createdAt": "2026-11-19T15:35:10.648Z",
+      "leadCount": 0
+    },
+    {
+      "id": "site_1795102510648_1_87oe",
+      "name": "EdTech Academy",
+      "domain": "learnfast.edu",
+      "apiKey": "omni_live_l8tiae20_mwnpopx4",
+      "colorTag": "indigo",
+      "description": "",
+      "createdAt": "2026-11-19T15:35:10.648Z",
+      "leadCount": 0
+    },
+    {
+      "id": "site_1795102510648_2_epbi",
+      "name": "CarePlus Health Portal",
+      "domain": "careplusclinic.org",
+      "apiKey": "omni_live_epn03trk_mwnpopx4",
+      "colorTag": "blue",
+      "description": "",
+      "createdAt": "2026-11-19T15:35:10.648Z",
+      "leadCount": 1,
+      "lastLeadAt": "2026-11-19T15:35:35.692Z"
+    }
+  ],
+  "leads": [
+    {
+      "id": "lead_1795102535692_eo8h",
+      "siteId": "site_1795102510648_2_epbi",
+      "siteName": "CarePlus Health Portal",
+      "customerName": "Dr. Ananya Roy",
+      "email": "ananya.roy@careplusclinic.org",
+      "phone": "+919988776655",
+      "type": "Doctor Appointment",
+      "status": "New",
+      "sourceUrl": "https://careplusclinic.org",
+      "payload": {
+        "specialty": "Cardiology Consultation",
+        "preferredDate": "25-Nov-2026"
+      },
+      "notes": [],
+      "notifications": {
+        "email": {
+          "admin": {
+            "sent": false
+          },
+          "customer": {
+            "sent": false
+          }
+        },
+        "whatsapp": {
+          "admin": {
+            "sent": true,
+            "at": "2026-11-19T15:35:35.801Z",
+            "recipient": "+918287416406"
+          },
+          "customer": {
+            "sent": true,
+            "at": "2026-11-19T15:35:35.805Z",
+            "recipient": "+919988776655"
+          }
+        }
+      },
+      "createdAt": "2026-11-19T15:35:35.692Z",
+      "updatedAt": "2026-11-19T15:35:35.807Z"
+    },
+    {
+      "id": "lead_1795029367514_165e",
+      "siteId": "site_scaleroute",
+      "siteName": "ScaleRoute (Wix)",
+      "customerName": "Rohan Mehra",
+      "email": "rohan.mehra@techventures.in",
+      "phone": "+919876500112",
+      "type": "Pitch Deck",
+      "status": "New",
+      "sourceUrl": "",
+      "payload": {
+        "projectName": "SolarGrid AI",
+        "type": "Pitch Deck",
+        "companyName": "SolarGrid Technologies",
+        "investmentRequired": "?1,20,00,000"
+      },
+      "notes": [],
+      "notifications": {
+        "email": {
+          "admin": {
+            "sent": false
+          },
+          "customer": {
+            "sent": false
+          }
+        },
+        "whatsapp": {
+          "admin": {
+            "sent": true,
+            "at": "2026-11-18T19:16:33.570Z",
+            "recipient": "+918287416406"
+          },
+          "customer": {
+            "sent": true,
+            "at": "2026-11-18T19:16:33.572Z",
+            "recipient": "+919876500112"
+          }
+        }
+      },
+      "createdAt": "2026-11-18T19:16:07.514Z",
+      "updatedAt": "2026-11-18T19:16:33.572Z"
+    },
+    {
+      "id": "lead_1795022724290_zusb",
+      "siteId": "site_scaleroute",
+      "siteName": "ScaleRoute (Wix)",
+      "customerName": "Rajesh Gupta",
+      "email": "rajesh.gupta@fintech.co",
+      "phone": "+919811223344",
+      "type": "Pitch Deck",
+      "status": "New",
+      "sourceUrl": "",
+      "payload": {
+        "investmentRequired": "?75,00,000",
+        "projectName": "PayEasy Quick Payments",
+        "equityOffered": "12%",
+        "companyName": "PayEasy Ltd"
+      },
+      "notes": [],
+      "createdAt": "2026-11-18T17:25:24.290Z",
+      "updatedAt": "2026-11-18T17:25:24.290Z"
+    },
+    {
+      "id": "lead_demo_001",
+      "siteId": "site_scaleroute",
+      "siteName": "ScaleRoute (Wix)",
+      "customerName": "Aarav Sharma",
+      "email": "aarav.sharma@aerotech.io",
+      "phone": "+919876543210",
+      "type": "Pitch Deck",
+      "status": "In Review",
+      "sourceUrl": "https://scaleroute.in/pitch-upload",
+      "payload": {
+        "projectName": "AeroTech Drone Logistics",
+        "companyName": "AeroTech Pvt Ltd",
+        "category": "Aviation & Logistics",
+        "investmentRequired": "₹50,00,000",
+        "stakeOffered": "10%",
+        "expectedReturns": "25% CAGR in 3 years",
+        "projectSummary": "Autonomous last-mile drone delivery network for tier 2/3 hospitals and medical centers."
+      },
+      "notes": [
+        {
+          "id": "note_1",
+          "text": "Reviewed pitch deck. High potential in logistics. Scheduled initial screening.",
+          "createdAt": "2026-11-17T17:25:16.391Z",
+          "author": "Admin"
+        }
+      ],
+      "createdAt": "2026-11-17T17:25:16.391Z",
+      "updatedAt": "2026-11-18T05:25:16.391Z"
+    },
+    {
+      "id": "lead_demo_002",
+      "siteId": "site_scaleroute",
+      "siteName": "ScaleRoute (Wix)",
+      "customerName": "Pooja Verma",
+      "email": "pooja.v@venturegrowth.com",
+      "phone": "+919123456789",
+      "type": "Investor Registration",
+      "status": "New",
+      "sourceUrl": "https://scaleroute.in/investors-meet",
+      "payload": {
+        "eventName": "Start Up Summit 2026",
+        "investmentSector": "CleanTech & SaaS",
+        "investmentAmount": "₹1,00,00,000",
+        "address": "Mumbai, Maharashtra"
+      },
+      "notes": [],
+      "createdAt": "2026-11-18T12:25:16.391Z",
+      "updatedAt": "2026-11-18T12:25:16.391Z"
+    },
+    {
+      "id": "lead_demo_003",
+      "siteId": "site_growth",
+      "siteName": "WeGrow India Campaign",
+      "customerName": "Vikram Patel",
+      "email": "vikram@agrisolutions.co",
+      "phone": "+919822334455",
+      "type": "Mentorship Application",
+      "status": "Contacted",
+      "sourceUrl": "https://wegrowindia.com/mentorship",
+      "payload": {
+        "businessStage": "Early Revenue",
+        "teamSize": "8 members",
+        "challenge": "Scaling sales across regional agriculture cooperatives."
+      },
+      "notes": [
+        {
+          "id": "note_2",
+          "text": "Connected on WhatsApp. Shared mentor intro sheet.",
+          "createdAt": "2026-11-18T15:25:16.391Z",
+          "author": "Admin"
+        }
+      ],
+      "createdAt": "2026-11-17T23:25:16.391Z",
+      "updatedAt": "2026-11-18T15:25:16.391Z"
+    }
+  ],
+  "settings": {
+    "adminEmail": "kuhelibusinessstudio@gmail.com",
+    "adminWhatsApp": "+918287416406",
+    "webhookUrl": "",
+    "whatsappProvider": "meta_cloud",
+    "metaWhatsApp": {
+      "enabled": true,
+      "phoneNumberId": "",
+      "accessToken": "",
+      "wabaId": "",
+      "notifyAdmin": true,
+      "autoReplyCustomer": true,
+      "templateName": ""
+    },
+    "brevo": {
+      "enabled": true,
+      "apiKey": "",
+      "senderEmail": "kuhelibusinessstudio@gmail.com",
+      "senderName": "ScaleRoute Central CRM",
+      "notifyAdmin": true,
+      "autoReplyCustomer": true,
+      "adminSubject": "🔔 New Lead Received from {{siteName}}",
+      "customerSubject": "Thank you for contacting {{siteName}}!"
+    },
+    "openwa": {
+      "enabled": false,
+      "serverUrl": "http://localhost:8085",
+      "apiKey": "",
+      "session": "default",
+      "notifyAdmin": true,
+      "autoReplyCustomer": true
+    }
+  }
+}
